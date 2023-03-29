@@ -10,5 +10,5 @@ npm install
 npm start
 
 ## actions
-Upload an image: route is {host-ip-address}:8090/api/v1/upload
-Retrieve all uploaded files {host-ip-address}:8090/api/v1/files
+Upload an image: route is {host-ip-address}:8000/api/v1/upload
+Retrieve all uploaded files {host-ip-address}:8000/api/v1/files
